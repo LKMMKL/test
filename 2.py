@@ -2,6 +2,7 @@ import py.e
 py.e.hello()
 no hello
 nono hello
+<<<<<<< HEAD
 test2测试
 test2测试2
 test2测试3
@@ -12,3 +13,4 @@ test3
 master测试
 master测试2
 master测试3
+test3
